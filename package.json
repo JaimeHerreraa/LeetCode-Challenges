@@ -1,0 +1,16 @@
+{
+  "name": "javascript-challenges",
+  "version": "1.0.0",
+  "description": "leetcode problems solved in javascript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "leetcode",
+    "javascript"
+  ],
+  "author": "jaime herrera",
+  "license": "MIT"
+}
